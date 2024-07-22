@@ -12,9 +12,11 @@ A simple CLI (and web-GUI) ledger application for small businesses.
 
 CLI (v0.1.0)
 
-- [ ] Create and open databases
-- [ ] Create and open tables
-- [ ] Print tables
+- [x] Open databases
+- [ ] Create databases
+- [x] Open tables
+- [ ] Create tables
+- [x] Print tables
 - [ ] Insert entries into tables
 - [ ] Print tables, filtered
 - [ ] Edit entries
